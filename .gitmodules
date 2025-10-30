@@ -1,0 +1,3 @@
+[submodule "programs"]
+	path = programs
+	url = https://github.com/panicd9/campfire-programs.git
