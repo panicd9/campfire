@@ -1,3 +1,6 @@
 [submodule "programs"]
 	path = programs
 	url = https://github.com/panicd9/campfire-programs.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/panicd9/campfire-frontend.git
